@@ -1,0 +1,1 @@
+hola :- write("Hola mundo"),nl.
